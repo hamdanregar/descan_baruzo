@@ -49,7 +49,7 @@ export default function JDIH() {
                         JDIH
                     </h1>
                     <p className="text-white/70 text-lg max-w-2xl">
-                        Jaringan Dokumentasi dan Informasi Hukum — Peraturan dan dokumen hukum resmi Desa Konoha
+                        Jaringan Dokumentasi dan Informasi Hukum — Peraturan dan dokumen hukum resmi desa baruzo
                     </p>
                 </div>
             </div>
@@ -76,7 +76,7 @@ export default function JDIH() {
                     <div>
                         <h3 className="font-semibold text-blue-800 mb-1">Tentang JDIH</h3>
                         <p className="text-blue-600 text-sm leading-relaxed">
-                            JDIH (Jaringan Dokumentasi dan Informasi Hukum) adalah portal resmi yang menyediakan dokumentasi hukum berupa peraturan desa, keputusan kepala desa, dan produk hukum lainnya yang berlaku di Desa Konoha.
+                            JDIH (Jaringan Dokumentasi dan Informasi Hukum) adalah portal resmi yang menyediakan dokumentasi hukum berupa peraturan desa, keputusan kepala desa, dan produk hukum lainnya yang berlaku di desa baruzo.
                         </p>
                     </div>
                 </div>

@@ -29,7 +29,7 @@ function getColor(posisi: string) {
     return "from-gray-400 to-gray-600";
 }
 
-const visi = "Terwujudnya Desa Konoha yang MAJU, SEJAHTERA, MANDIRI, dan BERBUDAYA melalui pembangunan yang partisipatif dan berkelanjutan.";
+const visi = "Terwujudnya desa baruzo yang MAJU, SEJAHTERA, MANDIRI, dan BERBUDAYA melalui pembangunan yang partisipatif dan berkelanjutan.";
 
 const misi = [
     "Meningkatkan kualitas pelayanan publik yang cepat, transparan, dan akuntabel kepada seluruh masyarakat desa.",
@@ -71,7 +71,7 @@ export default function StrukturOrganisasi() {
                         Struktur Organisasi Desa
                     </h1>
                     <p className="text-white/70 text-lg max-w-2xl">
-                        Susunan pimpinan dan perangkat pemerintahan Desa Konoha yang melayani masyarakat
+                        Susunan pimpinan dan perangkat pemerintahan desa baruzo yang melayani masyarakat
                     </p>
                 </div>
             </div>

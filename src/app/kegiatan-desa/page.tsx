@@ -54,7 +54,7 @@ export default function KegiatanDesaPage() {
             Kegiatan Desa
           </h1>
           <p className="text-white/70 text-lg max-w-2xl">
-            Dokumentasi kegiatan dan program yang dilaksanakan oleh Pemerintah Desa Konoha
+            Dokumentasi kegiatan dan program yang dilaksanakan oleh Pemerintah desa baruzo
           </p>
         </div>
       </div>

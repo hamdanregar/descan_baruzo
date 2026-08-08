@@ -40,7 +40,7 @@ export default function APBDes() {
                         APBDes
                     </h1>
                     <p className="text-white/70 text-lg max-w-2xl">
-                        Anggaran Pendapatan dan Belanja Desa — Transparansi pengelolaan keuangan Desa Konoha
+                        Anggaran Pendapatan dan Belanja Desa — Transparansi pengelolaan keuangan desa baruzo
                     </p>
                 </div>
             </div>

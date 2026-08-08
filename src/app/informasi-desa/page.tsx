@@ -3,13 +3,13 @@ import Footer from "@/components/Footer";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Informasi Desa - Portal Desa Konoha",
-    description: "Informasi umum tentang Desa Konoha, profil desa, visi & misi",
+    title: "Informasi Desa - Portal desa baruzo",
+    description: "Informasi umum tentang desa baruzo, profil desa, visi & misi",
 };
 
 export default function InformasiDesa() {
     const profil = [
-        { label: "Nama Desa", value: "Desa Konoha" },
+        { label: "Nama Desa", value: "desa baruzo" },
         { label: "Kecamatan", value: "Kecamatan Konoha" },
         { label: "Kabupaten/Kota", value: "Kabupaten Konoha" },
         { label: "Provinsi", value: "-" },
@@ -34,7 +34,7 @@ export default function InformasiDesa() {
                         Informasi Desa
                     </h1>
                     <p className="text-white/70 text-lg max-w-2xl">
-                        Informasi lengkap mengenai profil, visi & misi, serta gambaran umum Desa Konoha
+                        Informasi lengkap mengenai profil, visi & misi, serta gambaran umum desa baruzo
                     </p>
                 </div>
             </div>
@@ -90,10 +90,10 @@ export default function InformasiDesa() {
                             </div>
                             <div className="prose prose-sm max-w-none text-gray-600 leading-relaxed">
                                 <p className="mb-4">
-                                    Desa Konoha adalah sebuah desa yang terletak di wilayah yang subur dan strategis. Desa ini memiliki sejarah panjang dalam pengembangan pertanian dan komunitas masyarakat yang solid.
+                                    desa baruzo adalah sebuah desa yang terletak di wilayah yang subur dan strategis. Desa ini memiliki sejarah panjang dalam pengembangan pertanian dan komunitas masyarakat yang solid.
                                 </p>
                                 <p className="mb-4">
-                                    Dengan komitmen untuk terus berkembang, Desa Konoha telah mengadopsi berbagai program digitalisasi untuk meningkatkan kualitas pelayanan publik kepada masyarakat. Portal digital ini adalah salah satu wujud nyata dari upaya tersebut.
+                                    Dengan komitmen untuk terus berkembang, desa baruzo telah mengadopsi berbagai program digitalisasi untuk meningkatkan kualitas pelayanan publik kepada masyarakat. Portal digital ini adalah salah satu wujud nyata dari upaya tersebut.
                                 </p>
                                 <p>
                                     Melalui portal ini, seluruh informasi tentang desa, administrasi, dan kegiatan dapat diakses oleh masyarakat secara transparan dan mudah, kapan saja dan di mana saja.
@@ -136,7 +136,7 @@ export default function InformasiDesa() {
                         <div className="bg-gradient-to-br from-green-600 to-emerald-700 rounded-2xl p-6 text-white">
                             <div className="text-xs font-bold uppercase tracking-wider text-green-200 mb-3">Visi Desa</div>
                             <p className="font-semibold leading-relaxed text-sm">
-                                "Terwujudnya Desa Konoha yang Maju, Sejahtera, Mandiri, dan Berbudaya melalui Pembangunan yang Partisipatif dan Berkelanjutan"
+                                "Terwujudnya desa baruzo yang Maju, Sejahtera, Mandiri, dan Berbudaya melalui Pembangunan yang Partisipatif dan Berkelanjutan"
                             </p>
                         </div>
 
@@ -169,7 +169,7 @@ export default function InformasiDesa() {
                                     <div className="w-8 h-8 bg-green-100 rounded-lg flex items-center justify-center flex-shrink-0">
                                         <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /></svg>
                                     </div>
-                                    <div className="text-sm text-gray-600">Desa Konoha, Kecamatan Konoha, Kabupaten Konoha</div>
+                                    <div className="text-sm text-gray-600">desa baruzo, Kecamatan Konoha, Kabupaten Konoha</div>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <div className="w-8 h-8 bg-green-100 rounded-lg flex items-center justify-center flex-shrink-0">

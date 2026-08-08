@@ -72,7 +72,7 @@ export default function DaftarData() {
                         Daftar Data
                     </h1>
                     <p className="text-white/70 text-lg max-w-2xl">
-                        Kumpulan data dan laporan statistik Desa Konoha untuk mendukung perencanaan pembangunan
+                        Kumpulan data dan laporan statistik desa baruzo untuk mendukung perencanaan pembangunan
                     </p>
                 </div>
             </div>

@@ -70,7 +70,7 @@ export default function AgendaDesa() {
                         Agenda Desa
                     </h1>
                     <p className="text-white/70 text-lg max-w-2xl">
-                        Jadwal kegiatan dan acara resmi Desa Konoha yang dapat diikuti seluruh masyarakat
+                        Jadwal kegiatan dan acara resmi desa baruzo yang dapat diikuti seluruh masyarakat
                     </p>
                 </div>
             </div>
